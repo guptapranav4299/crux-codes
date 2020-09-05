@@ -4,9 +4,9 @@ public class DP {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner scn=new Scanner(System.in);
-		int n=scn.nextInt();
-		int [] strg=new int[n+1];
+//		Scanner scn=new Scanner(System.in);
+//		int n=scn.nextInt();
+//		int [] strg=new int[n+1];
 //		System.out.println(fibonacci(n,strg));
 //		System.out.println(countBoardPath(n,0,strg));
 		
